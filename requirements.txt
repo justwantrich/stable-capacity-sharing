@@ -1,0 +1,7 @@
+# Reference environment: Python 3.14.7. These are the library versions under which the underlying research code was run.
+# Other recent versions are expected to work but have not been used.
+numpy==2.5.2
+scipy==1.18.1
+pandas==3.0.6
+pyarrow==25.0.1
+numba==0.68.0
